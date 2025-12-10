@@ -28,5 +28,13 @@ Se você não é desenvolvedor ou não usa Git, siga estes passos simples para b
 4.  O download iniciará automaticamente.
 5.  Após baixar, clique com o botão direito no arquivo zipado e escolha **"Extrair Tudo"** (ou "Extract Here") para acessar os arquivos `.bib`.
 
----
-*Dica: Após extrair, você pode importar os arquivos diretamente pelo Holyrics.*
+## 📂 Onde Colocar os Arquivos
+
+Após baixar e extrair o arquivo ZIP:
+
+1.  Copie os arquivos de bíblia (`.bib`) que você deseja.
+2.  Cole-os diretamente na seguinte pasta do seu computador:
+
+    `C:\Holyrics\Holyrics\files\Bible LG`
+
+> **Nota:** Se o Holyrics estiver aberto, feche e abra-o novamente para que as novas versões apareçam na lista.
